@@ -1,0 +1,5 @@
+L1, L2, L3 and L4 are files. Your program is supposed to compute Top Hash. You can choose to use MD5 or SHA1 for hashing. You can use source code of SHA1 or MD5 from the internet.
+
+Input: Pathnames of files. There should be no upper bound on the number of files. Your program should be able to handle thousands of files.
+
+Output: Compute Top Hash and demonstrate that Top Hash does not match when one or more files are modified.
